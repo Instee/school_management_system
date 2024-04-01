@@ -1,0 +1,17 @@
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\bin\Debug\school student management system.exe.config
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\bin\Debug\school student management system.exe
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\bin\Debug\school student management system.pdb
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school student management system.csproj.AssemblyReference.cache
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school_student_management_system.frmMainMenu.resources
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school_student_management_system.Properties.Resources.resources
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school student management system.csproj.GenerateResource.cache
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school student management system.csproj.CoreCompileInputs.cache
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school student management system.exe
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school student management system.pdb
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school_student_management_system.frmStudent.resources
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school_student_management_system.frmTeachers.resources
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\madus\OneDrive\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school s.172EB33A.Up2Date
+c:\Users\U\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school student management system.exe
+c:\Users\U\Desktop\c# school management system\school student management system\school student management system\obj\Debug\school student management system.pdb
